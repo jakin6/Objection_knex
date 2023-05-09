@@ -14,7 +14,7 @@ module.exports = {
     connection: {
       database: 'objection_tutorial',
       user:     'postgres',
-      password:null
+      password:'12345678',
     },
     pool: {
       min: 2,
